@@ -9,19 +9,17 @@ This extension for SillyTavern allows you to draw diagrams using the [Mermaid](h
 
 For example:
 
-<pre><code>
-```mermaid
+<pre><code>```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-```
-</code></pre>
+```</code></pre>
 
 Will render as:
 
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/3a129e88-4899-4ddc-904c-59ca878275ea">
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/3a129e88-4899-4ddc-904c-59ca878275ea">
 
 ## License
 
