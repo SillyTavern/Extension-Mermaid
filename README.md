@@ -4,7 +4,7 @@ This extension for SillyTavern allows you to draw diagrams using the [Mermaid](h
 
 ## How to use
 
-1. Install using the SillyTavern extension installer, using the URL `https://github.com/SillyTavern/Extension-Mermaid`.
+1. Install with the SillyTavern extension installer, using the URL `https://github.com/SillyTavern/Extension-Mermaid`.
 2. Use the `mermaid` code block in any chat to write your diagram.
 
 For example:
