@@ -19,6 +19,10 @@ graph TD;
 ```
 </code></pre>
 
+Will render as:
+
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/3a129e88-4899-4ddc-904c-59ca878275ea">
+
 ## License
 
 The extension is licensed under the AGPL-3.0 license.
