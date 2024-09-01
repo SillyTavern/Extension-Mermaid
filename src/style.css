@@ -1,0 +1,6 @@
+.mermaid>svg {
+    background: var(--black30a);
+    padding: 10px;
+    border: 1px var(--white50a) solid;
+    border-radius: 5px;
+}

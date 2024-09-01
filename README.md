@@ -1,15 +1,26 @@
-# Extension-ReactTemplate
-Template repository for SillyTavern extensions using React and Webpack.
+# Mermaid
+
+This extension for SillyTavern allows you to draw diagrams using the [Mermaid](https://mermaid.js.org/) library.
 
 ## How to use
 
-1. Click "Use this template" on the GitHub page.
-2. Create a new repository and clone it to your local machine.
-3. Open the repository in your code editor and run `npm install`.
-4. Edit the `manifest.json` file.
-5. Write the source code in `src` directory.
-6. When you're ready to test - run `npm run build`.
-7. Minimized bundle will appear in `dist`, ready to be plugged into SillyTavern.
+1. Install using the SillyTavern extension installer, using the URL `https://github.com/SillyTavern/Extension-Mermaid`.
+2. Use the `mermaid` code block in any chat to write your diagram.
 
-> [!TIP]
-> If you want to test your extension live, clone the repo into the `/public/scripts/extensions/third-party` of your SillyTavern installation.
+For example:
+
+<pre><code>
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+</code></pre>
+
+## License
+
+The extension is licensed under the AGPL-3.0 license.
+
+Mermaid library is licensed under the MIT license.
