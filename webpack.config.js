@@ -6,6 +6,7 @@ module.exports = {
     output: {
         path: path.join(__dirname, 'dist/'),
         filename: `index.js`,
+        publicPath: '/scripts/extensions/third-party/Extension-Mermaid/dist/',
     },
     module: {
         rules: [
